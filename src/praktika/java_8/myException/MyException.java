@@ -1,0 +1,7 @@
+package praktika.java_8.myException;
+
+public class MyException extends Exception{
+    public MyException(String message) {
+        super(message);
+    }
+}
